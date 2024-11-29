@@ -24,7 +24,7 @@
 	</b:if>
     <!-- Meta Judul -->
 	<b:if cond='data:view.isHomepage or (data:view.isSearch and !data:view.isLabelSearch and !data:blog.searchQuery)'>
-    <title><data:view.title.escaped/> - Online Streaming</title>
+    <title><data:view.title.escaped/> - Watch Animes In Hindisub</title>
     <meta expr:content='data:view.title' property='og:title'/>
     <meta expr:content='data:view.title' property='og:image:alt'/>
     <meta expr:content='data:view.title' name='twitter:title'/>
